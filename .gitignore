@@ -1,0 +1,7 @@
+/.eslintignore
+/.eslintrc.json
+/.node-version
+/.prettierignore
+/.prettierrc.json
+/node_modules
+/package-lock.json
